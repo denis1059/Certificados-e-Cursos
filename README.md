@@ -8,7 +8,7 @@ Bootcamp Take Blip Web Developer. DIO( Digital inovation one)
 Logica de programaçao é a forma de como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. 
 Faz o uso de algoritimos, que são sequencias de passos bem estabelecidos, como por exemplo, uma receita de bolo. Carga horária de 4h.
 
-certificado 
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado-logica%20de%20programa%C3%A7ao.pdf" target="_blank" > Certificado </a>
 
 
 
@@ -23,5 +23,7 @@ certificado
 Nesse curo foi uma introdução basica do que é a internet, o que siginifica e como funcionam os seus principais termos.
 Ensinou tambem como os dispositivos se conectam atraves de diferentes tipos de rede e construimos uma aplicação web.
 Carga horária de 6h.
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Primeiros%20parassos%20para%20desenvolvimento%20web.pdf" target="_blank" > Certificado </a>
 
 <hr>
