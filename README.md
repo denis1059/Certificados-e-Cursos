@@ -6,7 +6,7 @@ Aqui estão alguns certificados e cursos, que adiquirir no decorrer da minha jor
 Bootcamp Take Blip Web Developer. DIO( Digital inovation one)
 
 Logica de programaçao é a forma de como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. 
-Faz o uso de algoritimos, que são sequencias de passos bem estabelecidos, como por exemplo, uma receita de bolo. Carga horária de 4h.
+Faz o uso de algoritimos, que são sequencias de passos bem estabelecidos, como por exemplo, uma receita de bolo. Carga horária de 4h 📚⌚.
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado-logica%20de%20programa%C3%A7ao.pdf" target="_blank" > Certificado </a>
 
@@ -22,7 +22,7 @@ Faz o uso de algoritimos, que são sequencias de passos bem estabelecidos, como 
 
 Nesse curo foi uma introdução basica do que é a internet, o que siginifica e como funcionam os seus principais termos.
 Ensinou tambem como os dispositivos se conectam atraves de diferentes tipos de rede e construimos uma aplicação web.
-Carga horária de 6h.
+Carga horária de 6h 📚⌚.
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Primeiros%20parassos%20para%20desenvolvimento%20web.pdf" target="_blank" > Certificado </a>
 
@@ -33,7 +33,18 @@ Carga horária de 6h.
 <a href="url"><img src="https://user-images.githubusercontent.com/92122550/149659562-d4b4c68c-d5e3-4a19-aa7d-204c2792cc47.png " align="left" height="150" width="150" ></a>
 
 
-Neste curso eu aprendi sobre temas e conceitos que vão me auxiliar no processo de pensamento para iniciar no mundo da programação, entender a logica e os conceitos basicos que são bastante importante para a criação de algoritimos, como o computador executa as instruçoes desenvolvidas pelos profissionais da programação. Carga horária de 4h.
+Neste curso eu aprendi sobre temas e conceitos que vão me auxiliar no processo de pensamento para iniciar no mundo da programação, entender a logica e os conceitos basicos que são bastante importante para a criação de algoritimos, como o computador executa as instruçoes desenvolvidas pelos profissionais da programação. Carga horária de 4h 📚⌚.
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20primeiros%20passos%20para%20come%C3%A7ar%20a%20programar.pdf" target="_blank" > Certificado </a>
+
+
+## IDE Instalação e Configuração do (Visual Studio Code)
+
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/149661883-c175702a-cfd2-431b-823a-46fb321df414.png " align="left" height="150" width="150" ></a>
+
+Neste curso aprendi a instalar e configurar um dos IDEs mais utilizados e flexiveis do mercado,conhecido tambem como VSCode. Carga horária de 1h 📚⌚.
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20IDE%20Instala%C3%A7%C3%A3o%20e%20Configura%C3%A7%C3%A3o.pdf" target="_blank" > Certificado </a>
+
+
 
