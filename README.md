@@ -27,3 +27,13 @@ Carga horária de 6h.
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Primeiros%20parassos%20para%20desenvolvimento%20web.pdf" target="_blank" > Certificado </a>
 
 <hr>
+
+## Primeiros passos para começar a programar 
+
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/149659562-d4b4c68c-d5e3-4a19-aa7d-204c2792cc47.png " align="left" height="150" width="150" ></a>
+
+
+Neste curso eu aprendi sobre temas e conceitos que vão me auxiliar no processo de pensamento para iniciar no mundo da programação, entender a logica e os conceitos basicos que são bastante importante para a criação de algoritimos, como o computador executa as instruçoes desenvolvidas pelos profissionais da programação. Carga horária de 4h.
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20primeiros%20passos%20para%20come%C3%A7ar%20a%20programar.pdf" target="_blank" > Certificado </a>
+
