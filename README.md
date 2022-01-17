@@ -37,6 +37,8 @@ Neste curso eu aprendi sobre temas e conceitos que vão me auxiliar no processo 
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20primeiros%20passos%20para%20come%C3%A7ar%20a%20programar.pdf" target="_blank" > Certificado </a>
 
+<hr>
+
 
 ## IDE Instalação e Configuração do (Visual Studio Code)
 
@@ -45,6 +47,20 @@ Neste curso eu aprendi sobre temas e conceitos que vão me auxiliar no processo 
 Neste curso aprendi a instalar e configurar um dos IDEs mais utilizados e flexiveis do mercado,conhecido tambem como VSCode. Carga horária de 1h 📚⌚.
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20IDE%20Instala%C3%A7%C3%A3o%20e%20Configura%C3%A7%C3%A3o.pdf" target="_blank" > Certificado </a>
+
+<hr>
+
+
+
+
+## Introdução ao Git e ao GitHub
+
+
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/149848332-45f2660e-78b9-4cbc-8a5d-1ddcb8748177.png" align="left" height="150" width="150" ></a>
+
+Nesse curso aprendi um pouco da historia do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Tambem conheci alguns dos principais comandos, como funciona a plataforma e como ela pode realmente simplicar e agilizar o nosso trabalho. Carga horária de 5h 📚⌚.
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub.pdf " target="_blank" > Certificado </a>
 
 
 
