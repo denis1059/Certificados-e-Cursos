@@ -72,5 +72,16 @@ Neste curso eu aprendi alguns conceitos basicos ao avançado do HTML uma linguag
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Html%20Avan%C3%A7ado%20-%20Funda%C3%A7%C3%A3o%20Bradesco.pdf" target="_blank" > Certificado </a>
 
+<hr>
+
+
+## Introdução a criação de websites com HTML5 e CSS3
+
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150132183-32f7a7ab-677e-409d-83c6-d5e2ec5c4ba3.png" align="left" height="150" width="150" ></a>
+
+Nesse curso eu aprendi um pouco da historia do HTML5 e do CSS3, como funciona a estrutura básica dessas tecnologias, a semântica, principais elementos e comandos. Carga horária de 6h 📚⌚.
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Introdu%C3%A7%C3%A3o%20a%20cria%C3%A7%C3%A3o%20de%20websites%20com%20HTML%20e%20CSS3.pdf" target="_blank" > Certificado </a>
+
 
 
