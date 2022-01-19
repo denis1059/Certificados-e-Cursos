@@ -62,5 +62,13 @@ Nesse curso aprendi um pouco da historia do Git e como ele se tornou essencial p
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub.pdf " target="_blank" > Certificado </a>
 
+## HTML Avançado
+
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150043725-25c2269b-0ee8-46bf-b172-f6ef6aa8d1e4.jpg" align="left" height="150" width="150" ></a>
+
+Neste curso eu aprendi alguns conceitos basicos ao avançado do HTML uma linguagem de marcção que é mais utilizada para criar paginas da web, como criar tabelas, formularios e frames, como funciona a cemantica. Carga horária de 6h 📚⌚.
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Html%20Avan%C3%A7ado%20-%20Funda%C3%A7%C3%A3o%20Bradesco.pdf" target="_blank" > Certificado </a>
+
 
 
