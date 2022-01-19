@@ -33,7 +33,7 @@ Carga horária de 6h 📚⌚.
 <a href="url"><img src="https://user-images.githubusercontent.com/92122550/149659562-d4b4c68c-d5e3-4a19-aa7d-204c2792cc47.png " align="left" height="150" width="150" ></a>
 
 
-Neste curso eu aprendi sobre temas e conceitos que vão me auxiliar no processo de pensamento para iniciar no mundo da programação, entender a logica e os conceitos basicos que são bastante importante para a criação de algoritimos, como o computador executa as instruçoes desenvolvidas pelos profissionais da programação. Carga horária de 4h 📚⌚.
+Nesee curso eu aprendi sobre temas e conceitos que vão me auxiliar no processo de pensamento para iniciar no mundo da programação, entender a logica e os conceitos basicos que são bastante importante para a criação de algoritimos, como o computador executa as instruçoes desenvolvidas pelos profissionais da programação. Carga horária de 4h 📚⌚.
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20primeiros%20passos%20para%20come%C3%A7ar%20a%20programar.pdf" target="_blank" > Certificado </a>
 
@@ -44,7 +44,7 @@ Neste curso eu aprendi sobre temas e conceitos que vão me auxiliar no processo 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/92122550/149661883-c175702a-cfd2-431b-823a-46fb321df414.png " align="left" height="150" width="150" ></a>
 
-Neste curso aprendi a instalar e configurar um dos IDEs mais utilizados e flexiveis do mercado,conhecido tambem como VSCode. Carga horária de 1h 📚⌚.
+Nesee curso aprendi a instalar e configurar um dos IDEs mais utilizados e flexiveis do mercado,conhecido tambem como VSCode. Carga horária de 1h 📚⌚.
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20IDE%20Instala%C3%A7%C3%A3o%20e%20Configura%C3%A7%C3%A3o.pdf" target="_blank" > Certificado </a>
 
@@ -68,7 +68,7 @@ Nesse curso aprendi um pouco da historia do Git e como ele se tornou essencial p
 
 <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150043725-25c2269b-0ee8-46bf-b172-f6ef6aa8d1e4.jpg" align="left" height="150" width="150" ></a>
 
-Neste curso eu aprendi alguns conceitos basicos ao avançado do HTML uma linguagem de marcção que é mais utilizada para criar paginas da web, como criar tabelas, formularios e frames, como funciona a cemantica. Carga horária de 6h 📚⌚.
+Nesee curso eu aprendi alguns conceitos basicos ao avançado do HTML uma linguagem de marcção que é mais utilizada para criar paginas da web, como criar tabelas, formularios e frames, como funciona a cemantica. Carga horária de 6h 📚⌚.
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Html%20Avan%C3%A7ado%20-%20Funda%C3%A7%C3%A3o%20Bradesco.pdf" target="_blank" > Certificado </a>
 
@@ -84,4 +84,14 @@ Nesse curso eu aprendi um pouco da historia do HTML5 e do CSS3, como funciona a 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Introdu%C3%A7%C3%A3o%20a%20cria%C3%A7%C3%A3o%20de%20websites%20com%20HTML%20e%20CSS3.pdf" target="_blank" > Certificado </a>
 
 
+<hr>
+
+## Introdução ao JavaScript
+
+Nesee curso eu pude entender sobre o que é javascript, as necessidades que esta linguagem atende e as diversas possibilidades dentro do mercado de trabalho. Carga horária de 3h 📚⌚.
+
+
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150188936-8c3b1f42-c908-46b7-a366-81d0919ddb4f.png" align="left" height="150" width="150" ></a>
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Introdu%C3%A7%C3%A3o%20ao%20JavaScript.pdf" target="_blank" > Certificado </a>
 
