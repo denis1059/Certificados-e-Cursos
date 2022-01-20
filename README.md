@@ -97,13 +97,12 @@ Nesse curso eu aprendi um pouco da historia do HTML5 e do CSS3, como funciona a 
 
 <hr>
 
-
 ## Sintaxe e Operadores
 
-   Nesse curso foi feita uma introdução aos principais operadores para manipular valores no codigo. 
-   Carga horária de 2h 📚⌚.                                                     
+ Nesse curso foi feita uma introdução aos principais operadores para manipular valores no codigo. 
+ Carga horária de 2h 📚⌚.  <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150340824-175f8251-b0c5-4348-b477-0c18e59ac31f.png" align="left" height="150" width="150" ></a>                                                   
 
-<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150340824-175f8251-b0c5-4348-b477-0c18e59ac31f.png" align="left" height="150" width="150" ></a>
+
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20sintaxe%20e%20Operadores.pdf" target="_blank" > Certificado </a>
 
