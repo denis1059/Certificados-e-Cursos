@@ -88,10 +88,25 @@ Nesse curso eu aprendi um pouco da historia do HTML5 e do CSS3, como funciona a 
 
 ## Introdução ao JavaScript
 
-Nesee curso eu pude entender sobre o que é javascript, as necessidades que esta linguagem atende e as diversas possibilidades dentro do mercado de trabalho. Carga horária de 3h 📚⌚.
+ Nesee curso eu pude entender sobre o que é javascript, as necessidades que esta linguagem atende e as diversas possibilidades dentro do mercado de trabalho. Carga horária de 3h 📚⌚.
 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150188936-8c3b1f42-c908-46b7-a366-81d0919ddb4f.png" align="left" height="150" width="150" ></a>
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Introdu%C3%A7%C3%A3o%20ao%20JavaScript.pdf" target="_blank" > Certificado </a>
+
+<hr>
+
+
+## Sintaxe e Operadores
+
+   Nesse curso foi feita uma introdução aos principais operadores para manipular valores no codigo. 
+   Carga horária de 2h 📚⌚.                                                     
+
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150340824-175f8251-b0c5-4348-b477-0c18e59ac31f.png" align="left" height="150" width="150" ></a>
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20sintaxe%20e%20Operadores.pdf" target="_blank" > Certificado </a>
+
+
+
 
