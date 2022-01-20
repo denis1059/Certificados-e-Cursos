@@ -90,6 +90,7 @@ ___
 
 ## Introdução ao JavaScript
 
+
  Nesee curso eu pude entender sobre o que é javascript, as necessidades que esta linguagem atende e as diversas possibilidades dentro do mercado de trabalho. Carga horária de 3h 📚⌚.<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150188936-8c3b1f42-c908-46b7-a366-81d0919ddb4f.png" align="left" height="150" width="150" ></a>
 
 
@@ -115,6 +116,7 @@ ___
 
 
 <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150343547-00e34061-e6dc-47d6-8b3b-10a92ef238df.png" align="left" height="150" width="150" ></a>    Nesse curso eu aprendi o que é o javaScript, pra quê serve e como utilizá-lo em projetos. Foi apresentado a sintaxe dessa linguagem, desde a teoria até a pratica.Carga horária de 2h 📚⌚. 
+
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Sintaxe%20B%C3%A1sica%20em%20JavaScript.pdf" target="_blank" > Certificado </a>
 
 
