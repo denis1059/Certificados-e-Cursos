@@ -124,9 +124,20 @@ ___
 
 ## Variaveis e Tipos - JavaScript
 
- <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150534274-501a281d-008b-4628-9c53-1bf4dd0252ab.png" align="left" height="150" width="150" ></a> Neste curso eu pude me familiarizar com as estruturas de dados mais comuns do JavaScript e entender algumas nuances entre elas. Carga horária de 3h 📚⌚.
+ <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150534274-501a281d-008b-4628-9c53-1bf4dd0252ab.png" align="left" height="150" width="150" ></a> Nesse curso eu pude me familiarizar com as estruturas de dados mais comuns do JavaScript e entender algumas nuances entre elas. Carga horária de 3h 📚⌚.
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Vari%C3%A1veis%20e%20Tipos.pdf" target="_blank" > Certificado </a>
+
+
+## Estrutura de Dados e Algoritimos 
+
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150601680-b00e9b82-455a-44f8-92e1-676c34fbecd4.png" align="left" height="150" width="150" ></a>
+ Nesse curso eu pude aprender o que são estruturas de dados em um sistema, qual a importância dela e como trabalhar com o armazenamento dessas informações de forma ágil e otmizada. Carga horária de 2h 📚⌚.
+ 
+ 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20estrutura%20de%20dados%20e%20algoritimos.pdf" target="_blank" > Certificado </a>
+
+
+
   
 
 
