@@ -119,6 +119,16 @@ ___
 
 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Sintaxe%20B%C3%A1sica%20em%20JavaScript.pdf" target="_blank" > Certificado </a>
 
+___
+
+
+## Variaveis e Tipos - JavaScript
+
+ <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150534274-501a281d-008b-4628-9c53-1bf4dd0252ab.png" align="left" height="150" width="150" ></a> Neste curso eu pude me familiarizar com as estruturas de dados mais comuns do JavaScript e entender algumas nuances entre elas. Carga horária de 3h 📚⌚.
+
+📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Vari%C3%A1veis%20e%20Tipos.pdf" target="_blank" > Certificado </a>
+  
+
 
  
 
