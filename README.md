@@ -142,6 +142,19 @@ ___
  Nesse curso pude ver como se utilizar o framework Bootstrap e aprofundou mais ainda os conhecimentos em HTML5 e CSS3. Carga horária de 4h 📚⌚.
  
  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Construindo%20p%C3%A1ginas%20para%20web%20com%20Bootstrap.pdf" target="_blank" > Certificado </a>
+ 
+   
+   
+   
+ 
+ ## Funções Java Script 
+ 
+ <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150652502-ffb0a8f9-5340-4e90-8e74-4e4c6fe8f261.png" align="left" height="150" width="150" ></a>
+  Nesse curso de JavaScript eu pude aprender a declarar funçoes e manipular parâmentros. Alem disso pude conhecer alguns conceitos como loops, argumentos "this" e arrow functions. Carga horária de 1h 📚⌚.
+  
+  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Fun%C3%A7oes%20JavaScript.pdf" target="_blank" > Certificado </a>
+ 
+ 
 
 
  
