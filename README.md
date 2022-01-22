@@ -136,9 +136,12 @@ ___
  
  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20estrutura%20de%20dados%20e%20algoritimos.pdf" target="_blank" > Certificado </a>
 
+## Contruindo paginas da web com Bootstrap
 
-
-  
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150637631-97254b41-438a-4b3a-82cf-5150dca15e2e.png" align="left" height="150" width="150" ></a>
+ Nesse curso pude ver como se utilizar o framework Bootstrap e aprofundou mais ainda os conhecimentos em HTML5 e CSS3. Carga horária de 4h 📚⌚.
+ 
+ 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Construindo%20p%C3%A1ginas%20para%20web%20com%20Bootstrap.pdf" target="_blank" > Certificado </a>
 
 
  
