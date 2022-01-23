@@ -161,6 +161,14 @@ ___
  
  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20logica%20de%20programa%C3%A7ao%20funda%C3%A7%C3%A3o%20bradesco.pdf" target="_blank" > Certificado </a>
  
+ ## Debugging e Error Handling
+ 
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150680888-6049ee14-af53-4567-8191-1e500a7ead56.png" align="left" height="150" width="150" ></a>
+ Com este curso fui capaz de entender um pouco de como lidar com erros e exceções, alem de criar os próprios erros personalizados. Carga horária de 1h 📚⌚.
+ 
+ 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20Debugging%20e%20Error%20Handling.pdf" target="_blank"> Certificado </a>
+ 
+ 
  
 
 
