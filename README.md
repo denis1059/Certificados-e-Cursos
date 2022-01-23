@@ -184,8 +184,12 @@ ___
  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Javascript%20Ass%C3%ADncrono.pdf" target="_blank"> Certificado </a>
 
  
+ ## Orientação a objetos JavaScript
  
+ <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150696446-4f93cd6a-7f18-45ba-8f35-dd8219b48cf6.png" align="left" height="150" width="150" ></a>
+ Nesse curso pude entender um pouco do conceito de Orientação a Objetos e os seus principais pilares. Além de compreender um pouco de como o JavaScript lida com esse paradigma. Carga horária de 1h 📚⌚.
  
+ 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20Orienta%C3%A7%C3%A3o%20a%20objetos%20JavaScript.pdf" target="_blank"> Certificado </a>
  
 
 
