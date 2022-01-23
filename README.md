@@ -154,6 +154,13 @@ ___
   
   📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Fun%C3%A7oes%20JavaScript.pdf" target="_blank" > Certificado </a>
  
+ ## Lógica de Programação 
+ 
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150043725-25c2269b-0ee8-46bf-b172-f6ef6aa8d1e4.jpg" align="left" height="150" width="150" ></a>
+ Nesse curso eu pude aprender um pouco mais sobre a logica de programação, a maneira de como se escreve um algoritimo, que nada mais é do que uma sequência de passos necessários, para que uma função seja executada, um exemplo é a receita de bolo que contem o passo a passo do que necessita ser feito. Carga horária de 15h 📚⌚.
+ 
+ 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20logica%20de%20programa%C3%A7ao%20funda%C3%A7%C3%A3o%20bradesco.pdf" target="_blank" > Certificado </a>
+ 
  
 
 
