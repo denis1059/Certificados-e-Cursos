@@ -191,6 +191,16 @@ ___
  
  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20Orienta%C3%A7%C3%A3o%20a%20objetos%20JavaScript.pdf" target="_blank"> Certificado </a>
  
+ ## Map, Filter e Reduce JavaScript
+ 
+ <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150698344-974fbd5a-83c4-40bd-9196-bd9385318b46.png" align="left" height="150" width="150" ></a>
+ Nesse curso pude entender um pouco da utilização de três métodos importantes para Arrays: Map, Filter e Reduce. Carga horária de 2h 📚⌚.
+ 
+  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Map%2C%20Filter%20e%20Reduce%20JavaScript.pdf" target="_blank"> Certificado </a>
+ 
+ 
+ 
+ 
 
 
  
