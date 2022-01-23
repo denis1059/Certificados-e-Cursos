@@ -168,6 +168,14 @@ ___
  
  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20Debugging%20e%20Error%20Handling.pdf" target="_blank"> Certificado </a>
  
+ ## Coleções JavaScript 
+ 
+ <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150681481-b55b9019-3b40-4ca7-93ee-89909a53cb7d.png" align="left" height="150" width="150" ></a>
+  Neste curso eu pude me familiarizar e conhecer um pouco do objeto Map e o Objeto Set em JavaScript. Carga horária de 1h 📚⌚.
+ 
+ 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Cole%C3%A7%C3%B5es%20Java%20Script.pdf" target="_blank"> Certificado </a>
+ 
+ 
  
  
 
