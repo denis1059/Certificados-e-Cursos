@@ -176,6 +176,15 @@ ___
  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Cole%C3%A7%C3%B5es%20Java%20Script.pdf" target="_blank"> Certificado </a>
  
  
+ ## Javascript Assíncrono
+ 
+<a href="url"><img src="https://user-images.githubusercontent.com/92122550/150696201-743b602c-eb1e-479a-ab49-b0df92443390.png" align="left" height="150" width="150" ></a>
+  Neste curso eu pude conhecer o conceito de assincronicidade,as promises e fazer requisições de APIs. Carga horária de 1h 📚⌚.
+  
+ 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Javascript%20Ass%C3%ADncrono.pdf" target="_blank"> Certificado </a>
+
+ 
+ 
  
  
 
