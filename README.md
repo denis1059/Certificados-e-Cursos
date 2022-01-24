@@ -186,17 +186,27 @@ ___
  
  ## Orientação a objetos JavaScript
  
- <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150696446-4f93cd6a-7f18-45ba-8f35-dd8219b48cf6.png" align="left" height="150" width="150" ></a>
+<img src="https://user-images.githubusercontent.com/92122550/150696446-4f93cd6a-7f18-45ba-8f35-dd8219b48cf6.png" align="left" height="150" width="150" >
  Nesse curso pude entender um pouco do conceito de Orientação a Objetos e os seus principais pilares. Além de compreender um pouco de como o JavaScript lida com esse paradigma. Carga horária de 1h 📚⌚.
  
  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20Orienta%C3%A7%C3%A3o%20a%20objetos%20JavaScript.pdf" target="_blank"> Certificado </a>
  
  ## Map, Filter e Reduce JavaScript
  
- <a href="url"><img src="https://user-images.githubusercontent.com/92122550/150698344-974fbd5a-83c4-40bd-9196-bd9385318b46.png" align="left" height="150" width="150" ></a>
+ <img src="https://user-images.githubusercontent.com/92122550/150698344-974fbd5a-83c4-40bd-9196-bd9385318b46.png" align="left" height="150" width="150" >
  Nesse curso pude entender um pouco da utilização de três métodos importantes para Arrays: Map, Filter e Reduce. Carga horária de 2h 📚⌚.
  
   📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Map%2C%20Filter%20e%20Reduce%20JavaScript.pdf" target="_blank"> Certificado </a>
+  
+ ## Manipulando a D.O.M. com JavaScript
+ 
+ <img src="https://user-images.githubusercontent.com/92122550/150838099-d80a6875-5425-4557-9a39-5f4bf41f6a8f.png" align="left" height="150" width="150" >
+ 
+  Nesse curso eu pude um pouco de como manipular os elementos de uma página HTML utilizando JavaScript. Carga horária de 1h 📚⌚.
+  
+  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20Manipulando%20a%20D.O.M.%20com%20JavaScript.pdf" target="_blank"> Certificado </a>
+ 
+ 
  
  
  
