@@ -211,7 +211,7 @@ ___
 
 
  <img src="https://user-images.githubusercontent.com/92122550/151015746-4ff44c77-fb72-4051-aa11-d5d6cd9eb241.png" align="left" height="150" width="150" >
-  Nesse curso eu pude me familiarizar criando minhas primeiras tabelas no ambiente MySQL e de como gerenciar a relação entre cad uma delas. Carga horária de 2h 📚⌚.
+  Nesse curso eu pude me familiarizar criando minhas primeiras tabelas no ambiente MySQL e de como gerenciar a relação entre cada uma delas. Carga horária de 2h 📚⌚.
   
   📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20MySql%20-%20Trabalhando%20com%20as%20suas%20primeiras%20tabelas.pdf" target="_blank"> Certificado </a>
   
