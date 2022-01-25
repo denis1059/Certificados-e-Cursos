@@ -215,6 +215,14 @@ ___
   
   📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20MySql%20-%20Trabalhando%20com%20as%20suas%20primeiras%20tabelas.pdf" target="_blank"> Certificado </a>
   
+ ## MySql - Explorando relacionamentos com workbench
+ 
+ <img src="https://user-images.githubusercontent.com/92122550/151019070-ae0ad5b5-201b-4b8b-b052-6506c070368c.png" align="left" height="150" width="150" >
+  Nesse curso eu pude me familiarizar e entender um pouco mais aprofundado sobre os relacionamentos e como criar consultas mais poderosas na hora de resgatar os dados. Carga horária de 2h 📚⌚.
+  
+  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20MySql%20-%20Explorando%20relacionamentos%20com%20workbench.pdf" target="_blank"> Certificado </a>
+ 
+  
  
  
  
