@@ -222,8 +222,16 @@ ___
   
   📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20MySql%20-%20Explorando%20relacionamentos%20com%20workbench.pdf" target="_blank"> Certificado </a>
  
-  
+
+
+
+ ## MySQL - Consultas com Join 
  
+ <img src="https://user-images.githubusercontent.com/92122550/151156585-86f84119-5746-439e-9b12-4461f4161111.png" align="left" height="150" width="150" >
+   Nesse curso aprendi um pouco de como criar consultas relacionando os dados das tabelas e como filtar suas informações. Carga horária de 2h 📚⌚.
+   
+  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20MySQL%20-%20Consultas%20com%20Join.pdf" target="_blank"> Certificado </a>
+   
  
  
  
