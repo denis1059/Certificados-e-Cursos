@@ -222,7 +222,7 @@ ___
   
   📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20MySql%20-%20Explorando%20relacionamentos%20com%20workbench.pdf" target="_blank"> Certificado </a>
  
-
+<hr>
 
 
  ## MySQL - Consultas com Join 
