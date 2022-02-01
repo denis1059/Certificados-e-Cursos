@@ -2,7 +2,20 @@
 Aqui estão alguns certificados e cursos, que adiquirir no decorrer da minha jornada. 
 
 
-# Cursos feitos nos bootcamps da platafroma <a href= "https://dio.me/sign-up?ref=Z6EYSZ5TNV">Digital Inovation one </a>
+# Cursos feitos e bootcamps da platafroma <a href= "https://dio.me/sign-up?ref=Z6EYSZ5TNV">Digital Inovation one </a>
+
+##  Bootcamp - Take Blip Web Developer
+
+<img src="https://user-images.githubusercontent.com/92122550/152069633-9b89294a-50de-45a7-99b9-f166ce381cec.png" align="left" height="150" width="150">
+
+ Com o Bootcamp Take Blip Web Developer, eu pude aprender JavaScript – uma linguagem que entrega uma aplicação de ponta a ponta do Back-end ao Front-end (web ou mobile). Este Bootcamp faz parte do programa Órbi Academy Techboost, iniciativa da DIO junto ao Órbi Conecta, programa o qual oferecerá mais de 130 mil bolsas gratuitas de estudo em carreiras de tecnologia até 2022, fortalecendo ainda mais a comunidade tech brasileira. Carga horária de 78h 📚⌚.
+ 
+ 📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20Take%20Blip%20Web%20Developer.pdf" target="_blank" > Certificado </a>
+ 
+ 
+
+
+
 ## Lógica de Programção
 <a href="url"><img src="https://user-images.githubusercontent.com/92122550/149603997-89748b8e-ec46-42c4-afb5-d9a07c3695db.png" align="left" height="150" width="150" ></a>
 
