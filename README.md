@@ -247,7 +247,11 @@ ___
    
   📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/Certificado%20MySQL%20-%20Consultas%20com%20Join.pdf" target="_blank"> Certificado </a>
    
+ ## Projetos ágeis com SCRUM
+  <img src="https://user-images.githubusercontent.com/92122550/152337565-6eeddb0b-1c18-41e4-ac82-b53ab3bc787e.png" align="left" height="150" width="150" >
+  SCRUM é um framework utilizado no gerenciamento ágil de projetos de software. Esse curso me ensinou os fundamentos e práticas da metodologia. Carga horária de 2h 📚⌚.
  
+  📜 <a href= "https://github.com/denis1059/Certificados-e-cursos/blob/main/Certificados/certificado%20Projetos%20%C3%A1geis%20com%20SCRUM.pdf" target="_blank"> Certificado </a>
  
  
  
